@@ -15,7 +15,7 @@ def multiplica(a,b):
         resultado=resultado * i
         
         print(resultado)
-    
+print("Modificación")    
 multiplica(3,6)
         
 print("Fin")
